@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AlexFrancisco10
+# 👋 Hi, I’m @Alex Liao
 
 - 👀 I’m interested in web development and exploring the world of machine learning.
 - 🌱 I’m currently learning the latest web technologies and preparing to dive into machine learning.
